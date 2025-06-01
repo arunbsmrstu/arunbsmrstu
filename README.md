@@ -8,23 +8,13 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 Currently building: **Aged Care Home Services Coordination App**
-- 🌱 Learning: **Machine Learning & AI Agents**
 - ⚙️ Tech stack: `Java`, `Spring Boot`, `React`, `PostgreSQL`, `Kafka`, `Python`
 - 💡 Interests: AI, Computer Vision, Embedded Systems, System Design
 - 📫 How to reach me: [arunbsmrstu@gmail.com](mailto:arunbsmrstu@gmail.com)
 
 ---
 
-### 🚀 Ongoing Projects
 
-- 🔹 **Dropshipping Automation Software** – For Excel/Sheet-based sellers  
-- 🔹 **OCR-based Document Extractor** – Hybrid microservices (Spring Boot + FastAPI)  
-- 🔹 **AI Code Reviewer** – Suggests bugs and improvements in real-time  
-- 🔹 **Fingerprint Identification SDK** – Inspired by fuzzy logic research  
-- 🔹 **Smart Fish Tank** – AI + IoT automation for aquarium monitoring
-
----
 
 ### 🛠️ Languages & Tools
 

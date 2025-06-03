@@ -9,7 +9,6 @@
 
 ---
 
-- 🔭 I’m currently working on **Aged Care Home Services Coordination Application** using React, Spring Boot & PostgreSQL.
 - 🌱 I’m learning **Machine Learning, Computer Vision, System Design, and Generative AI**.
 - 💬 Ask me about **Java, Spring Boot, Backend Architecture, Microservices, PostgreSQL, Python, and System Design**.
 - 📫 Reach me at: **arunbsmrstu@gmail.com**
@@ -45,16 +44,6 @@
 
 ---
 
-### 🛠️ Projects & Interests
-
-- **Aged Care Home Coordination App**  
-- **Affiliate Marketing Tracking System**  
-- **AI Code Reviewer Tool**  
-- **OCR Document Text Extractor**  
-- **Dropshipping Automation Platform**  
-- **Line Follower Robot (Custom Hardware)**  
-
----
 
 ### 📫 Let’s Connect
 

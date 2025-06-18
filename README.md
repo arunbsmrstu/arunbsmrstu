@@ -8,12 +8,9 @@
 </p>
 
 ---
-
-- 🌱 I’m learning **Machine Learning, Computer Vision, System Design, and Generative AI**.
 - 💬 Ask me about **Java, Spring Boot, Backend Architecture, Microservices, PostgreSQL, Python, and System Design**.
 - 📫 Reach me at: **arunbsmrstu@gmail.com**
 - 🌍 Based in **Bangladesh**.
-- ✍️ Currently building: AI Code Reviewer, OCR Document Text Extractor, Dropshipping Automation Software.
 
 ---
 
